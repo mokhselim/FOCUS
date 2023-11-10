@@ -3,7 +3,8 @@
 Hover blur effect
 
 ## Getting Started
-
+<img src="https://res.cloudinary.com/dcvoshrrl/image/upload/v1699647932/sidebar/epf8i7e5ktxgnivodkwv.png">
+<img src="https://res.cloudinary.com/dcvoshrrl/image/upload/v1699647927/sidebar/hcyr1fuyle0twesuibkt.png">
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
